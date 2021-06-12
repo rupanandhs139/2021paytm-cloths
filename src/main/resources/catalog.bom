@@ -1,0 +1,7 @@
+brooklyn.catalog:
+    version: "1.0-SNAPSHOT"
+    itemType: entity
+    items:
+    - id: paytm.MySample
+      item:
+        type: paytm.MySample

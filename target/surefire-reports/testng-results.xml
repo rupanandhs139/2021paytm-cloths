@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7293" started-at="2021-06-12T21:27:17Z" finished-at="2021-06-12T21:27:24Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7293" started-at="2021-06-12T21:27:17Z" finished-at="2021-06-12T21:27:24Z">
+      <class name="paytm.MySampleYamlTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="setUp" is-config="true" duration-ms="236" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testEntity()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="testEntity" duration-ms="454" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntity -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="tearDown" is-config="true" duration-ms="57" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="setUp" is-config="true" duration-ms="19" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUsingTestFramework()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="testUsingTestFramework" duration-ms="673" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingTestFramework -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:paytm.MySampleYamlTest@55a1c291]" name="tearDown" is-config="true" duration-ms="148" started-at="2021-06-13T02:57:24Z" finished-at="2021-06-13T02:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- paytm.MySampleYamlTest -->
+      <class name="paytm.MySampleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:paytm.MySampleTest@341b80b2]" name="setUp" is-config="true" duration-ms="5218" started-at="2021-06-13T02:57:17Z" finished-at="2021-06-13T02:57:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testEntity()[pri:0, instance:paytm.MySampleTest@341b80b2]" name="testEntity" duration-ms="312" started-at="2021-06-13T02:57:22Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEntity -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:paytm.MySampleTest@341b80b2]" name="tearDown" is-config="true" duration-ms="35" started-at="2021-06-13T02:57:23Z" finished-at="2021-06-13T02:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- paytm.MySampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
